@@ -1267,8 +1267,8 @@ h4 {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/img\/login-header\.jpg\'\)\] {
-  background-image: url('/img/login-header.jpg');
+.bg-\[url\(\'\.\/img\/login-header\.jpg\'\)\] {
+  background-image: url('./img/login-header.jpg');
 }
 
 .bg-\[length\:16px_16px\] {
