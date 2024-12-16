@@ -983,6 +983,38 @@ h5 {
   margin-bottom: 3.5rem;
 }
 
+.-mt-8 {
+  margin-top: -2rem;
+}
+
+.-mt-6 {
+  margin-top: -1.5rem;
+}
+
+.-mt-10 {
+  margin-top: -2.5rem;
+}
+
+.-mt-20 {
+  margin-top: -5rem;
+}
+
+.-mt-9 {
+  margin-top: -2.25rem;
+}
+
+.-mt-\[70px\] {
+  margin-top: -70px;
+}
+
+.-mt-\[38px\] {
+  margin-top: -38px;
+}
+
+.mb-12 {
+  margin-bottom: 3rem;
+}
+
 .block {
   display: block;
 }
@@ -1922,12 +1954,24 @@ h5 {
   padding-top: 1.75rem;
 }
 
+.pr-2\.5 {
+  padding-right: 0.625rem;
+}
+
+.pr-2 {
+  padding-right: 0.5rem;
+}
+
 .text-left {
   text-align: left;
 }
 
 .text-center {
   text-align: center;
+}
+
+.indent-96 {
+  text-indent: 24rem;
 }
 
 .align-top {
