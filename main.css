@@ -15,9 +15,6 @@
     @apply px-5 py-3 text-sm font-osw border-2 border-none inline-block bg-purple text-light rounded-full uppercase hover:text-white hover:bg-dark hover:border-dark tracking-[1.08px];
   }
 
-  .btn-without-shadow-yellow {
-    @apply px-2 py-3 text-base font-osw font-semibold border-2 border-none inline-block bg-light text-primary/75 rounded-lg uppercase hover:text-primary hover:bg-btn-secondary-bg active:text-primary active:bg-btn-secondary-bg tracking-[0.32px];
-  }
   
   .sidebar-menu li a {
     @apply flex items-center tracking-tight py-2.5 px-4 text-sm text-gray-300 hover:bg-[#3C3F4F] active:bg-[#3C3F4F] hover:text-gray-100 active:text-gray-100 rounded-md opacity-90 hover:opacity-100;
