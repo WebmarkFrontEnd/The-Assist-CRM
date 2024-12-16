@@ -2811,6 +2811,11 @@ h1,h2{
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
+.\*\:hover\:bg-purple:hover > * {
+  --tw-bg-opacity: 1;
+  background-color: rgb(161 144 204 / var(--tw-bg-opacity));
+}
+
 .focus\:border-blue-500:focus {
   --tw-border-opacity: 1;
   border-color: rgb(59 130 246 / var(--tw-border-opacity));
