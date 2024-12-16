@@ -60,6 +60,11 @@ module.exports = {
         6: '1.33em',
       },
 
+      gridTemplateColumns: {
+        // Simple 16 column grid
+        '4': 'repeat(4, minmax(0, 1fr))',
+      },
+
       plugins: [],
     },
   },
