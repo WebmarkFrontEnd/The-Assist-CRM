@@ -45,6 +45,7 @@ module.exports = {
         dark: '#272727',
         'purple': '#A190CC',
         'yellow': '#D6CF1F',
+        'green':'#D2E562',
       },
 
       fontSize: {
