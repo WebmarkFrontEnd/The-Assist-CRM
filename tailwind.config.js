@@ -60,8 +60,8 @@ module.exports = {
       lineHeight: {
         6: '1.33em',
       },
-      
-      plugins: [],
+
+      plugins: [require('tailwind-scrollbar-hide')],
     },
   },
 };
