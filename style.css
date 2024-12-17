@@ -2039,6 +2039,16 @@ h5 {
   padding-right: 3rem;
 }
 
+.py-6 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.px-7 {
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
+}
+
 .pb-1 {
   padding-bottom: 0.25rem;
 }
